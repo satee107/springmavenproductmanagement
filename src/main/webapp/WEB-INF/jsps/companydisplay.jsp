@@ -19,6 +19,7 @@ background:#ccc;
 <div class="card">
 <h2>Company Name ${cname}</h2>
 <p>Address: ${caddr}</p>
+<p>City: ${city}</p>
 </div>
 </body>
 </html>
